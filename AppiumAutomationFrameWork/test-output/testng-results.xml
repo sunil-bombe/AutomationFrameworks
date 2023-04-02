@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30794" started-at="2023-01-18T18:05:02Z" finished-at="2023-01-18T18:05:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30794" started-at="2023-01-18T18:05:02Z" finished-at="2023-01-18T18:05:33Z">
+      <class name="com.webwork.AppiumAutomationFrameWork.test.Mobile_Android_Browser_Test2">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.webwork.AppiumAutomationFrameWork.test.Mobile_Android_Browser_Test2@36c88a32]" name="setUp" is-config="true" duration-ms="26367" started-at="2023-01-18T18:05:02Z" finished-at="2023-01-18T18:05:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.webwork.AppiumAutomationFrameWork.test.Mobile_Android_Browser_Test2.loginToSwagLabsTestValid() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginToSwagLabsTestValid()[pri:0, instance:com.webwork.AppiumAutomationFrameWork.test.Mobile_Android_Browser_Test2@36c88a32]" name="loginToSwagLabsTestValid" duration-ms="3978" started-at="2023-01-18T18:05:28Z" finished-at="2023-01-18T18:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSwagLabsTestValid -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.webwork.AppiumAutomationFrameWork.test.Mobile_Android_Browser_Test2@36c88a32]" name="teardown" is-config="true" duration-ms="407" started-at="2023-01-18T18:05:32Z" finished-at="2023-01-18T18:05:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.webwork.AppiumAutomationFrameWork.test.Mobile_Android_Browser_Test2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
